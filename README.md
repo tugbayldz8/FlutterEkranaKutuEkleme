@@ -1,6 +1,6 @@
 # odev1
 
-A new Flutter project.
+Flutter ile ekrana birden fazla kutu yerleştirme örneği.
 
 ## Getting Started
 
